@@ -2,3 +2,4 @@ bundle_values: true
 bundle_where_in: true
 filters: Query matches "^(SELECT|INSERT|UPDATE|REPLACE) "
 limit: 65536
+output: standard
